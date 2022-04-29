@@ -1,6 +1,5 @@
 # RedStream
-A Movie Streaming Website built with [ReactJS](https://reactjs.org/), [MaterialUI](https://mui.com/), [ExpressJS](https://expressjs.com/), [Firebase](https://firebase.google.com/) and [FFmpeg](https://ffmpeg.org/).
-
+RedStream - Movie Streaming Website built with [ReactJS](https://reactjs.org/), [MaterialUI](https://mui.com/), [ExpressJS](https://expressjs.com/), [Firebase](https://firebase.google.com/) and [FFmpeg](https://ffmpeg.org/).
 
 
 ## Who Made This?
