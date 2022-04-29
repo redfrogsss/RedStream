@@ -17,13 +17,13 @@ RedStream - a Movie Streaming Website built with [ReactJS](https://reactjs.org/)
 
 ![Alt text](./readme-img/05.png "Movie Details")
 
+![Alt text](./readme-img/10.png "Series Details")
+
 ![Alt text](./readme-img/07.png "Search Movies")
 
 ![Alt text](./readme-img/08.png "Upload Movies")
 
 ![Alt text](./readme-img/09.png "Upload Movies Details")
-
-![Alt text](./readme-img/10.png "Series Details")
 
 ![Alt text](./readme-img/11.png "Playing Movies")
 
