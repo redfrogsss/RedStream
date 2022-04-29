@@ -9,6 +9,8 @@ RedStream - a Movie Streaming Website built with [ReactJS](https://reactjs.org/)
 - KO Chun Kit
 - SZE Chun
 
+![Alt text](./readme-img/01.png "Home Page")
+
 ![Alt text](./readme-img/04.png "Movie Page")
 
 ![Alt text](./readme-img/05.png "Movie Details")
@@ -22,8 +24,6 @@ RedStream - a Movie Streaming Website built with [ReactJS](https://reactjs.org/)
 ![Alt text](./readme-img/10.png "Series Details")
 
 ![Alt text](./readme-img/11.png "Playing Movies")
-
-![Alt text](./readme-img/01.png "Home Page")
 
 ![Alt text](./readme-img/02.png "Sign Up Page")
 
