@@ -48,7 +48,7 @@ RedStream - a Movie Streaming Website built with [ReactJS](https://reactjs.org/)
 - pwd: testes
 
 ## Learn More
-This is a Individual Assignment Project built in 2021 for the Final Year Project of the Associate Degree of Information System Development.
+This is a Group Project built in 2021 for the Final Year Project of the Associate Degree of Information System Development.
 
 The following tech is used in this project.
 - [ReactJS](https://reactjs.org/) - the frontend framework of this project.
